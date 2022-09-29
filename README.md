@@ -1,3 +1,4 @@
+[![mbelouar's 42 stats](https://badge.mediaplus.ma/binary/mbelouar)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm mbelouar</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
@@ -33,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medbelouarraq&" alt="medbelouarraq" /></p>
 
-[![mbelouar's 42 stats](https://badge.mediaplus.ma/binary/mbelouar)](https://github.com/oakoudad/badge42)
