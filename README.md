@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mbelouar</h1>
-[![mbelouar's 42 stats](https://badge.mediaplus.ma/greenbinary/mbelouar)](https://github.com/oakoudad/badge42)
-<h3 align="center">A passionate frontend developer from Morocco</h3>
 
+<h3 align="center">A passionate frontend developer from Morocco</h3>
+[![mbelouar's 42 stats](https://badge.mediaplus.ma/greenbinary/mbelouar)](https://github.com/oakoudad/badge42)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medbelouarraq&label=Profile%20views&color=0e75b6&style=flat" alt="medbelouarraq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medbelouarraq" alt="medbelouarraq" /></a> </p>
