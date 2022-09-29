@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mbelouar</h1>
-[![mbelouar's 42 stats](https://badge.mediaplus.ma/greenbinary/mbelouar)](https://github.com/oakoudad/badge42)
+<h1 align="center"> [![mbelouar's 42 stats](https://badge.mediaplus.ma/binary/mbelouar)](https://github.com/oakoudad/badge42) </h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medbelouarraq&label=Profile%20views&color=0e75b6&style=flat" alt="medbelouarraq" /> </p>
