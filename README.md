@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbelouarraq" target="blank"><img src="https://img.shields.io/twitter/follow/mbelouarraq?logo=twitter&style=for-the-badge" alt="mbelouarraq" /></a> </p>
 
-- 🔭 I’m currently working on [Libft](https://github.com/medbelouarraq/Libft)
+- 🔭 I’m currently working on [Get_next_line](https://github.com/medbelouarraq)
 
 - 👨‍💻 All of my projects are available at [https://github.com/medbelouarraq](https://github.com/medbelouarraq)
 
