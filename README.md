@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm mbelouar</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp> I'm mbelouar a highly resourceful software engineering student at ENSA TETOUAN and computer science student at UM6P - 1337 MED (42 Network) with over one years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mbelouar" alt="mbelouar's 42 stats" /></a>
