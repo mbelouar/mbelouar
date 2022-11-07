@@ -37,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medbelouarraq&" alt="medbelouarraq" /></p>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31dvslrezf5y5hl3wtq3czyiee24&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dvslrezf5y5hl3wtq3czyiee24&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)]]
