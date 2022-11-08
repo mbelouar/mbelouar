@@ -14,9 +14,9 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://img.shields.io/github/followers/medbelouarraq?label=mbelouar&style=for-the-badge)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/darkblue/mbelouar" />
+<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/binary/mbelouar" />
 
 ### Talking about Personal Stuffs:
 
@@ -28,12 +28,15 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 - 📫 &nbsp; How to reach me: simobelouarraq5@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](CV).
 
+<img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)" />
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📺 &nbsp; Watching movies and talk about iconic scenes.
 - 🥅 &nbsp; I love football and i'm a fan of Real Madrid.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
@@ -47,6 +50,4 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
-
-![Mbelouar's GitHub stats](https://github-readme-stats.vercel.app/api?username=medbelouarraq&theme=dark&show_icons=true)
 
