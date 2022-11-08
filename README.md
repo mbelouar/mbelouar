@@ -16,7 +16,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mbelouar" alt="mbelouar's 42 stats" />
+<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/binary/mbelouar" />
 
 ### Talking about Personal Stuffs:
 
