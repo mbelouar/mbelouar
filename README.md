@@ -16,7 +16,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/binary/mbelouar" />
+<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/darkblue/mbelouar" />
 
 ### Talking about Personal Stuffs:
 
@@ -31,7 +31,8 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📺 &nbsp; Watching movies and talk about iconic scenes.
+- 🥅 &nbsp; I love football and i'm a fan of Real Madrid.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
