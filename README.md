@@ -14,9 +14,10 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mbelouar" alt="mbelouar's 42 stats" /></a>
+
 [![](https://img.shields.io/github/followers/medbelouarraq?label=mbelouar&style=for-the-badge)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://badge.mediaplus.ma/binary/mbelouar" />
 
 ### Talking about Personal Stuffs:
 
@@ -28,7 +29,6 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 - 📫 &nbsp; How to reach me: simobelouarraq5@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](CV).
 
-<img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)" />
 
 ### My Absolute Favorites:
 
@@ -51,3 +51,4 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
 
+<img align="center" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)" />
