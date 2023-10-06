@@ -26,7 +26,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [philosophers](https://github.com/mbelouar/Philosophers)
+- 🛠 &nbsp; I’m currently working on [minishell]([https://github.com/mbelouar/minishell.git])
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/medbelouarraq).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/)! I am happy to help.
