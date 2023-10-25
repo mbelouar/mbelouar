@@ -32,7 +32,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 - 💬 &nbsp; Ask me about anything [Linkedin](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/). I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: simobelouarraq5@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://acrobat.adobe.com/link/officefile/?uri=urn%3Aaaid%3Asc%3AEU%3Ac545e515-6ec1-41bb-a386-a0891bd209b9).
+- 📝 &nbsp; Checkout my [Resume](https://smallpdf.com/pdf-reader).
 
 
 ### My Absolute Favorites:
