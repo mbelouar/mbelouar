@@ -28,7 +28,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 - 🛠 &nbsp; I’m currently working on [cub3D](https://github.com/mbelouar/cub3D)
 - 🚀 &nbsp; I’m currently learning backend development at ALX Africa.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/medbelouarraq).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mbelouar).
 - 💬 &nbsp; Ask me about anything [Linkedin](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/). I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: simobelouarraq5@gmail.com.
