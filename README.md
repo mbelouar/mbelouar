@@ -28,7 +28,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mbelouar).
 - 💬 &nbsp; Ask me about anything [Linkedin](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/). I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: simobelouarraq5@gmail.com.
+- 📫 &nbsp; How to reach me: medbelouarraq@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104).
 
 
