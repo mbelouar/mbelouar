@@ -15,7 +15,7 @@
 I'm mbelouar a software engineering student at ENSA TETOUAN and computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 ### 42 Badge:
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mbelouar" alt="mbelouar's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/mbelouar" alt="mbelouar's 42 stats" /></a>
 
 
 [![](https://img.shields.io/github/followers/medbelouarraq?label=mbelouar&style=for-the-badge)](https://gitwar.herokuapp.com/)
