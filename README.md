@@ -13,7 +13,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm BEL OUARRAQ Mohammed a software engineering student at ENSA TETOUAN and computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I’m passionate about leadership and everything that comes with it. I'm currently into Web Development and working on my Data Structures and Algorithms.
+I'm BEL OUARRAQ Mohammed a software engineering student at ENSA TETOUAN and computer science student at UM6P - 1337 MED (42 Network). Passionate about technology and programming, my training and practical projects allowed me to develop skills in problem solving, teamwork and project management. I am constantly on the lookout for new trends and technological advancements. Apart from that, I’m passionate about leadership and everything that comes with it.
 
 ### 42 Badge:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/mbelouar" alt="mbelouar's 42 stats" /></a>
