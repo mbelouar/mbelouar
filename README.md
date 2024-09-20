@@ -23,7 +23,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [ft_irc](https://github.com/mbelouar/cub3D)
+- 🛠 &nbsp; I’m currently working on [ft_irc](https://github.com/mbelouar/FT_IRC)
 - 🚀 &nbsp; I’m currently learning backend development at ALX Africa.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mbelouar).
 - 💬 &nbsp; Ask me about anything [Linkedin](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/). I am happy to help.
@@ -50,6 +50,7 @@ I'm mbelouar a software engineering student at ENSA TETOUAN and computer science
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
