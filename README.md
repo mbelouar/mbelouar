@@ -51,7 +51,6 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 💡 Leadership enthusiast with a passion for building innovative solutions and leading teams to success.
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/black/mbelouar" alt="mbelouar's 42 stats" />
   </a>
