@@ -96,7 +96,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 ### ☁️ DevOps & Cloud Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,nginx" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,nginx" alt="DevOps & Cloud" />
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
@@ -106,32 +106,19 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,typescript,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,python,flask,bash" alt="Programming Languages" />
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
 ### 🛠️ Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim,postman" alt="Development Tools" />
-</p>
-
-### 🎯 Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,bootstrap" alt="Frameworks" />
-</p>
-
-### 📊 Other Technologies
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools" />
 </p>
 
 </div>
