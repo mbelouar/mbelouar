@@ -8,14 +8,6 @@
   </a>
 </h1>
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=mbelouar&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/mbelouar)
-[![GitHub followers](https://img.shields.io/github/followers/mbelouar?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/mbelouar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/mbelouar?label=Stars&style=for-the-badge&color=58A6FF)](https://github.com/mbelouar)
-
-</div>
-
 <p align="center">
   <a href="mailto:medbelouarraq@gmail.com?subject=Message%20From%20GITHUB">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
