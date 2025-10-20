@@ -191,7 +191,7 @@ _System programming & algorithms_
 </table>
 
 <details>
-<summary><b>🔍 Additional Projects</b></summary>
+<summary><b> Additional Projects</b></summary>
 <br>
 
 |       **Category**       |      **Description**       |     **Technologies**      | **Status**  |
