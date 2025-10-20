@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="middle"> About Me
 
 **`Software Engineer · Cloud & DevOps Enthusiast`**
 
@@ -59,7 +59,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> Current Focus
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="middle"> Current Focus
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"> Languages & Technologies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" align="middle"> Languages & Technologies
 
 <div align="center">
 
@@ -130,7 +130,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"> Featured Projects
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="middle"> Featured Projects
 
 <div align="center">
 
@@ -192,7 +192,7 @@ Collection of challenging projects from 42 Network curriculum, demonstrating pro
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="middle"> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbelouar&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
@@ -200,7 +200,7 @@ Collection of challenging projects from 42 Network curriculum, demonstrating pro
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" style="vertical-align: middle;"> Connect & Collaborate
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" align="middle"> Connect & Collaborate
 
 <div align="center">
 
