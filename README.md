@@ -59,11 +59,12 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ### 🛠️ What I'm Working On
 
-- 🔭 Currently developing **[YOURS](https://github.com/mbelouar/YOURS)**
-- 🌱 Deepening **Cloud & DevOps**: Kubernetes, Terraform, CI/CD, Observability
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **AI/ML** and **Blockchain** technologies
-- 🏗️ Designing reliable, scalable systems on **AWS/GCP**
+- 🔭 Currently developing **[YOURS](https://github.com/mbelouar/YOURS)** with cloud-native architecture
+- ☁️ Mastering **Cloud Platforms**: AWS, Azure, GCP infrastructure design
+- 🚀 Advancing **DevOps Practices**: Kubernetes, Terraform, CI/CD pipelines
+- 📊 Implementing **Observability**: Prometheus, Grafana, monitoring solutions
+- 🔄 Exploring **GitOps**: ArgoCD, automated deployment strategies
+- 🏗️ Building **Scalable Systems**: Microservices, container orchestration
 
 </td>
 <td width="50%">
@@ -71,7 +72,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 ### 💬 Let's Connect
 
 - 💼 All my projects are available on **[GitHub](https://github.com/mbelouar)**
-- 💬 Ask me about **Software Development**, **Problem Solving**, or **Tech Leadership**
+- 💬 Ask me about **Cloud Architecture**, **DevOps**, or **Infrastructure as Code**
 - 📫 Reach me at: **medbelouarraq@gmail.com**
 - 📄 Check out my **[Resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104)**
 
