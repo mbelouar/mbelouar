@@ -61,8 +61,8 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ### 🚀 Active Development
 
-**🔭 [YOURS Project](https://github.com/mbelouar/YOURS)**
-_Cloud-native platform development_
+**🔭 Cloud-Native Solutions**
+_Modern application architecture & deployment_
 
 **☁️ Cloud Infrastructure**
 _AWS • Azure • GCP_
