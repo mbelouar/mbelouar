@@ -27,8 +27,7 @@ I'm BEL OUARRAQ Mohammed a software engineering student at ENSA TETOUAN and comp
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [IoT](https://github.com/mbelouar/Inception-of-Things)
-- 🚀 &nbsp; I’m currently learning backend development at ALX Africa.
+- 🛠 &nbsp; I’m currently working on [YOURS](https://github.com/mbelouar/YOURS)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mbelouar).
 - 💬 &nbsp; Ask me about anything [Linkedin](https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/). I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
