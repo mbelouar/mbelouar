@@ -40,8 +40,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 **`Software Engineer & Problem Solver`**
 
 I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENSA TETOUAN** and computer science student at **UM6P - 1337 MED (42 Network)**.
@@ -52,9 +50,8 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 💡 Leadership enthusiast with a passion for building innovative solutions and leading teams to success.
 
-<br clear="right"/>
-
 <div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/black/mbelouar" alt="mbelouar's 42 stats" />
   </a>
