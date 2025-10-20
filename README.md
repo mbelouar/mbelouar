@@ -55,7 +55,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🛠️ What I'm Working On
 
@@ -65,7 +65,7 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 - 📊 **Implementing Observability**: Prometheus, Grafana, monitoring solutions
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 💬 Let's Connect
 
