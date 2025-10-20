@@ -154,8 +154,8 @@ _Cloud deployment & automation_
 
 **Tech Stack:**
 
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure**: Terraform, AWS/Azure
+- **Containers**: Docker, Kubernetes
+- **Infrastructure**: Terraform, Cloud
 - **Monitoring**: Prometheus, Grafana
 - **CI/CD**: GitHub Actions, ArgoCD
 
@@ -174,7 +174,7 @@ _System programming & algorithms_
 - **System Programming**: C/C++, Unix
 - **Data Structures**: Advanced algorithms
 - **Network Programming**: Socket programming
-- **System Administration**: Linux, Shell scripting
+- **System Administration**: Linux, Shell
 
 [![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
 
