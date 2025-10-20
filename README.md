@@ -63,8 +63,6 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 - ☁️ Mastering **Cloud Platforms**: AWS, Azure, GCP infrastructure design
 - 🚀 Advancing **DevOps Practices**: Kubernetes, Terraform, CI/CD pipelines
 - 📊 Implementing **Observability**: Prometheus, Grafana, monitoring solutions
-- 🔄 Exploring **GitOps**: ArgoCD, automated deployment strategies
-- 🏗️ Building **Scalable Systems**: Microservices, container orchestration
 
 </td>
 <td width="50%">
