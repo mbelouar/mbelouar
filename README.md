@@ -150,7 +150,7 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 ### ☁️ Cloud Infrastructure Projects
 
 **🚀 Cloud-1 Project**
-_Cloud deployment & automation eeeee_
+_Cloud deployment & automation_
 
 **Tech Stack:**
 
@@ -158,10 +158,6 @@ _Cloud deployment & automation eeeee_
 - **Infrastructure**: Terraform, Cloud
 - **Monitoring**: Prometheus, Grafana
 - **CI/CD**: GitHub Actions, ArgoCD
-
-<br>
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -178,7 +174,15 @@ _System programming & algorithms_
 - **Network Programming**: Socket programming
 - **System Administration**: Linux, Shell
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
+
+</td>
+<td width="50%" align="center">
 
 [![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
 
