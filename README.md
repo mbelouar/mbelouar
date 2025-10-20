@@ -40,13 +40,14 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-**`Software Engineer & Problem Solver`**
+**`Software Engineer · Cloud & DevOps Enthusiast`**
 
 I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENSA TETOUAN** and computer science student at **UM6P - 1337 MED (42 Network)**.
 
 🚀 I'm driven by technology and programming, with hands-on experience in problem-solving, teamwork, and project management through various practical projects.
 
 🌟 Always staying ahead of the curve with the latest technological trends and advancements.
+☁️ Passionate about cloud‑native infrastructure, containers, CI/CD, IaC, and observability.
 
 💡 Leadership enthusiast with a passion for building innovative solutions and leading teams to success.
 
@@ -67,9 +68,10 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 ### 🛠️ What I'm Working On
 
 - 🔭 Currently developing **[YOURS](https://github.com/mbelouar/YOURS)**
-- 🌱 Learning advanced **DevOps** and **Cloud Technologies**
+- 🌱 Deepening **Cloud & DevOps**: Kubernetes, Terraform, CI/CD, Observability
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Exploring **AI/ML** and **Blockchain** technologies
+- 🏗️ Designing reliable, scalable systems on **AWS/GCP**
 
 </td>
 <td width="50%">
