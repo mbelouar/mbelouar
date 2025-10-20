@@ -159,6 +159,8 @@ _Cloud deployment & automation_
 - **Monitoring**: Prometheus, Grafana
 - **CI/CD**: GitHub Actions, ArgoCD
 
+<br>
+
 [![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
 
 </td>
@@ -175,6 +177,8 @@ _System programming & algorithms_
 - **Data Structures**: Advanced algorithms
 - **Network Programming**: Socket programming
 - **System Administration**: Linux, Shell
+
+<br>
 
 [![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
 
