@@ -101,6 +101,11 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" style="margin: 0 6px;vertical-align: middle;"/>
 </p>
 
 ### 💻 Programming Languages
