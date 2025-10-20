@@ -145,38 +145,36 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 [YOURS](https://github.com/mbelouar/YOURS)
+### ☁️ Cloud Infrastructure Projects
 
-**Current Project** • _In Development_
-
-A comprehensive platform showcasing modern software development practices and innovative solutions.
+**🚀 Kubernetes Deployment Pipeline**
+_Automated CI/CD with GitOps_
 
 **Tech Stack:**
 
-- Frontend: React, TypeScript
-- Backend: Node.js, Express
-- Database: MongoDB
-- DevOps: Docker, CI/CD
+- **Containerization**: Docker, Kubernetes
+- **Infrastructure**: Terraform, AWS/Azure
+- **Monitoring**: Prometheus, Grafana
+- **CI/CD**: GitHub Actions, ArgoCD
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar/YOURS)
+[![View Project](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 42 School Projects
+### 💡 Academic Excellence
 
-**Academic Excellence** • _Completed_
-
-Collection of challenging projects from 42 Network curriculum, demonstrating problem-solving skills and algorithmic thinking.
+**🎓 42 School Projects**
+_System Programming & Algorithms_
 
 **Highlights:**
 
-- System Programming (C/C++)
-- Data Structures & Algorithms
-- Unix System Administration
-- Network Programming
+- **System Programming**: C/C++, Unix
+- **Data Structures**: Advanced algorithms
+- **Network Programming**: Socket programming
+- **System Administration**: Linux, Shell scripting
 
 [![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
 
@@ -185,15 +183,15 @@ Collection of challenging projects from 42 Network curriculum, demonstrating pro
 </table>
 
 <details>
-<summary><b>🔍 More Projects</b></summary>
+<summary><b>🔍 Additional Projects</b></summary>
 <br>
 
-| Project                   | Description                                | Tech Stack              | Status      |
-| ------------------------- | ------------------------------------------ | ----------------------- | ----------- |
-| 🌐 **Web Development**    | Modern responsive web applications         | React, Node.js, MongoDB | ✅ Complete |
-| 🔧 **System Tools**       | Command-line utilities and system programs | C, C++, Bash            | ✅ Complete |
-| 📊 **Data Analysis**      | Data processing and visualization tools    | Python, MATLAB          | ✅ Complete |
-| 🤖 **Automation Scripts** | DevOps and deployment automation           | Docker, Bash, Python    | 🔄 Ongoing  |
+|       **Category**       |      **Description**       |     **Technologies**      | **Status**  |
+| :----------------------: | :------------------------: | :-----------------------: | :---------: |
+| 🌐 **Web Applications**  | Modern responsive web apps |  React, Node.js, MongoDB  | ✅ Complete |
+|   🔧 **System Tools**    |   Command-line utilities   |       C, C++, Bash        | ✅ Complete |
+|  📊 **Data Processing**  |  Analysis & visualization  |      Python, MATLAB       | ✅ Complete |
+| 🤖 **DevOps Automation** | Infrastructure automation  | Docker, Terraform, Python | 🔄 Ongoing  |
 
 </details>
 
