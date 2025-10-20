@@ -149,8 +149,8 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 
 ### ☁️ Cloud Infrastructure Projects
 
-**🚀 Cloud-1:**
-_Deploying project to the cloud_
+**🚀 Cloud-1 Project**
+_Deploying Inception to the cloud_
 
 **Tech Stack:**
 
@@ -166,7 +166,7 @@ _Deploying project to the cloud_
 
 ### 💡 Academic Excellence
 
-**🎓 42 Projects**
+**🎓 42 School Projects**
 _System Programming & Algorithms_
 
 **Highlights:**
