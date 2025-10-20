@@ -53,30 +53,48 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ## Current Focus
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ What I'm Working On
+### 🚀 Active Development
 
-- 🔭 **Currently developing** [YOURS](https://github.com/mbelouar/YOURS) with cloud-native architecture
-- ☁️ **Mastering Cloud Platforms**: AWS, Azure, GCP infrastructure design
-- 🚀 **Advancing DevOps Practices**: Kubernetes, Terraform, CI/CD pipelines
-- 📊 **Implementing Observability**: Prometheus, Grafana, monitoring solutions
+**🔭 [YOURS Project](https://github.com/mbelouar/YOURS)**
+_Cloud-native platform development_
+
+**☁️ Cloud Infrastructure**
+_AWS • Azure • GCP_
+
+**🚀 DevOps Pipeline**
+_Kubernetes • Terraform • CI/CD_
+
+**📊 Monitoring & Observability**
+_Prometheus • Grafana • Alerting_
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 Let's Connect
+### 💼 Professional Profile
 
-- 💼 **Portfolio**: All projects available on [GitHub](https://github.com/mbelouar)
-- 💬 **Expertise**: Cloud Architecture, DevOps, Infrastructure as Code
-- 📫 **Contact**: medbelouarraq@gmail.com
-- 📄 **Resume**: [View my resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104)
+**🎯 Core Expertise**
+_Cloud Architecture • DevOps • IaC_
+
+**💼 Portfolio**
+_[GitHub Projects](https://github.com/mbelouar)_
+
+**📧 Contact**
+*medbelouarraq@gmail.com*
+
+**📄 Resume**
+_[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104)_
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
