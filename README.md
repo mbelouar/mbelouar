@@ -159,7 +159,7 @@ _Deploying Inception project to the cloud_
 - **Monitoring**: Prometheus, Grafana
 - **CI/CD**: GitHub Actions, ArgoCD
 
-[![View Project](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
