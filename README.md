@@ -159,6 +159,8 @@ _Deploying Inception project to the cloud_
 - **Monitoring**: Prometheus, Grafana
 - **CI/CD**: GitHub Actions, ArgoCD
 
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
+
 </td>
 <td width="50%" valign="top">
 
@@ -174,16 +176,11 @@ _System Programming & Algorithms_
 - **Network Programming**: Socket programming
 - **System Administration**: Linux, Shell scripting
 
+[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
+
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
-[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
-
-</div>
 
 <details>
 <summary><b>🔍 Additional Projects</b></summary>
