@@ -89,19 +89,6 @@ I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENS
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Fun Facts & Interests
-
-<div align="center">
-
-|    💻 **Tech Passion**    |  📺 **Entertainment**  |        ⚽ **Sports**        |    🎯 **Events**     |
-| :-----------------------: | :--------------------: | :-------------------------: | :------------------: |
-| Exploring new tech stacks | Movies & iconic scenes | Football ⚽ Real Madrid fan | Hackathons & meetups |
-|  Building cool projects   | Discussing plot twists |       Weekend matches       |   Tech conferences   |
-
-</div>
-
-> 💡 **Fun Fact:** `Equal is Not Always Equal in JavaScript` - The beauty of type coercion! 😄
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Languages & Technologies
 
 <div align="center">
