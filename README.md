@@ -82,7 +82,7 @@ _Prometheus • Grafana • Alerting_
 _Cloud Architecture • DevOps • IaC_
 
 **💼 Portfolio**
-_[GitHub Projects](https://github.com/mbelouar)_
+_[GitHub Repositories](https://github.com/mbelouar?tab=repositories)_
 
 **📧 Contact**
 *medbelouarraq@gmail.com*
