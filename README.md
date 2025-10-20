@@ -166,7 +166,7 @@ _Deploying Inception project to the cloud_
 
 ### 💡 Academic Excellence
 
-**🎓 42 School Projects**
+**🎓 42 Projects**
 _System Programming & Algorithms_
 
 **Highlights:**
