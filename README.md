@@ -34,7 +34,7 @@
 
 **`Software Engineer · Cloud & DevOps`**
 
-I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENSA TETOUAN** and computer science student at **UM6P - 1337 MED (42 Network)**.
+I'm **Mohammed BEL OUARRAQ**, a passionate software engineer graduated from **ENSA TETOUAN** and computer science student at **UM6P - 1337 MED (42 Network)**.
 
 🚀 I'm driven by technology and programming, with hands-on experience in problem-solving, teamwork, and project management through various practical projects.
 
