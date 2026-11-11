@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-label="Mohammed Bel Ouarraq · Software Engineer · Cloud &amp; DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f19"/>
+      <stop offset="1" stop-color="#121a2e"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6edf3"/>
+      <stop offset="0.55" stop-color="#9ecbff"/>
+      <stop offset="1" stop-color="#b392f0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#b392f0" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c9d1d9" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="350" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+
+    .orb1 { animation: drift1 16s ease-in-out infinite alternate; }
+    .orb2 { animation: drift2 19s ease-in-out infinite alternate; }
+    .orb3 { animation: drift3 23s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(140px, 60px); } }
+    @keyframes drift2 { to { transform: translate(-160px, -40px); } }
+    @keyframes drift3 { to { transform: translate(90px, -70px); } }
+
+    .rise { animation: rise 0.9s ease-out both; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.6s; }
+    .d4 { animation-delay: 0.85s; } .d5 { animation-delay: 1.1s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity: 0.35; } }
+
+    /* terminal: 14s loop */
+    .screen { animation: screen 14s linear infinite; }
+    @keyframes screen { 0%, 93% { opacity: 1; } 97%, 100% { opacity: 0; } }
+    .ln { animation: 14s linear infinite; }
+    .l1 { animation-name: l1; } .l2 { animation-name: l2; } .l3 { animation-name: l3; }
+    .l4 { animation-name: l4; } .l5 { animation-name: l5; } .l6 { animation-name: l6; } .l7 { animation-name: l7; }
+    @keyframes l1 { 0%, 2% { opacity: 0; } 2.1%, 100% { opacity: 1; } }
+    @keyframes l2 { 0%, 11% { opacity: 0; } 11.1%, 100% { opacity: 1; } }
+    @keyframes l3 { 0%, 17% { opacity: 0; } 17.1%, 100% { opacity: 1; } }
+    @keyframes l4 { 0%, 28% { opacity: 0; } 28.1%, 100% { opacity: 1; } }
+    @keyframes l5 { 0%, 34% { opacity: 0; } 34.1%, 100% { opacity: 1; } }
+    @keyframes l6 { 0%, 46% { opacity: 0; } 46.1%, 100% { opacity: 1; } }
+    @keyframes l7 { 0%, 52% { opacity: 0; } 52.1%, 100% { opacity: 1; } }
+
+    /* typing: a cover slides right in character steps */
+    .cover { animation: 14s infinite; }
+    .t1 { animation-name: t1; } .t2 { animation-name: t2; } .t3 { animation-name: t3; }
+    @keyframes t1 { 0%, 3% { transform: translateX(0); animation-timing-function: steps(6); } 9%, 100% { transform: translateX(56px); } }
+    @keyframes t2 { 0%, 18% { transform: translateX(0); animation-timing-function: steps(16); } 26%, 100% { transform: translateX(140px); } }
+    @keyframes t3 { 0%, 35% { transform: translateX(0); animation-timing-function: steps(15); } 44%, 100% { transform: translateX(132px); } }
+
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <rect width="1200" height="350" fill="url(#grid)"/>
+    <g filter="url(#blur)" opacity="0.55">
+      <circle class="orb1" cx="220" cy="80" r="150" fill="#1f6feb"/>
+      <circle class="orb2" cx="980" cy="300" r="170" fill="#8957e5"/>
+      <circle class="orb3" cx="640" cy="330" r="120" fill="#0e7490"/>
+    </g>
+    <rect y="348" width="1200" height="2" fill="url(#edge)"/>
+  </g>
+
+  <!-- left: intro -->
+  <g class="sans">
+    <g class="rise d1">
+      <circle class="pulse" cx="78" cy="83" r="5" fill="#3fb950"/>
+      <text x="92" y="88" class="mono" font-size="15" fill="#8b949e">Hi there, I'm</text>
+    </g>
+    <text class="rise d2" x="70" y="148" font-size="50" font-weight="800" fill="url(#name)" letter-spacing="-1">Mohammed Bel Ouarraq</text>
+    <text class="rise d3" x="72" y="190" font-size="23" font-weight="600" fill="#58a6ff">Software Engineer <tspan fill="#6e7681">·</tspan> <tspan fill="#d2a8ff">Cloud &amp; DevOps</tspan></text>
+    <text class="rise d4" x="72" y="224" font-size="15.5" fill="#8b949e">1337 · 42 Network  ·  ENSA Tétouan  ·  Casablanca, Morocco</text>
+
+    <g class="rise d5 mono" font-size="13" font-weight="600">
+      <g transform="translate(72 252)">
+        <rect width="82" height="30" rx="15" fill="#1f6feb" fill-opacity="0.16" stroke="#1f6feb" stroke-opacity="0.55"/>
+        <text x="41" y="20" text-anchor="middle" fill="#79c0ff">Docker</text>
+      </g>
+      <g transform="translate(164 252)">
+        <rect width="112" height="30" rx="15" fill="#8957e5" fill-opacity="0.16" stroke="#8957e5" stroke-opacity="0.6"/>
+        <text x="56" y="20" text-anchor="middle" fill="#d2a8ff">Kubernetes</text>
+      </g>
+      <g transform="translate(286 252)">
+        <rect width="102" height="30" rx="15" fill="#0e7490" fill-opacity="0.2" stroke="#2dd4bf" stroke-opacity="0.5"/>
+        <text x="51" y="20" text-anchor="middle" fill="#5eead4">Terraform</text>
+      </g>
+      <g transform="translate(398 252)">
+        <rect width="72" height="30" rx="15" fill="#238636" fill-opacity="0.18" stroke="#3fb950" stroke-opacity="0.55"/>
+        <text x="36" y="20" text-anchor="middle" fill="#7ee787">CI/CD</text>
+      </g>
+      <g transform="translate(480 252)">
+        <rect width="72" height="30" rx="15" fill="#9e6a03" fill-opacity="0.2" stroke="#d29922" stroke-opacity="0.55"/>
+        <text x="36" y="20" text-anchor="middle" fill="#e3b341">Django</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- right: terminal -->
+  <g transform="translate(745 46)" filter="url(#shadow)">
+    <rect width="410" height="262" rx="12" fill="#0d1117" fill-opacity="0.92" stroke="#30363d"/>
+    <path d="M12 0h386a12 12 0 0 1 12 12v24H0V12A12 12 0 0 1 12 0z" fill="#161b22"/>
+    <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="60" cy="18" r="6" fill="#28c840"/>
+    <text x="205" y="23" text-anchor="middle" class="mono" font-size="12" fill="#6e7681">bello@cloud: ~</text>
+    <line x1="0" y1="36" x2="410" y2="36" stroke="#30363d"/>
+
+    <g class="mono screen" font-size="14">
+      <g class="ln l1">
+        <text x="18" y="68"><tspan fill="#3fb950">❯</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
+        <rect class="cover t1" x="34" y="54" width="220" height="20" fill="#0d1117"/>
+      </g>
+      <text class="ln l2" x="18" y="92" fill="#8b949e">software engineer · cloud &amp; devops</text>
+
+      <g class="ln l3">
+        <text x="18" y="124"><tspan fill="#3fb950">❯</tspan> <tspan fill="#e6edf3">kubectl get pods</tspan></text>
+        <rect class="cover t2" x="34" y="110" width="220" height="20" fill="#0d1117"/>
+      </g>
+      <text class="ln l4" x="18" y="148" fill="#8b949e">cloudpong-api   <tspan fill="#7ee787">1/1  Running</tspan>   0</text>
+
+      <g class="ln l5">
+        <text x="18" y="180"><tspan fill="#3fb950">❯</tspan> <tspan fill="#e6edf3">terraform apply</tspan></text>
+        <rect class="cover t3" x="34" y="166" width="260" height="20" fill="#0d1117"/>
+      </g>
+      <text class="ln l6" x="18" y="204" fill="#7ee787">Apply complete! <tspan fill="#8b949e">Resources: 12 added.</tspan></text>
+
+      <g class="ln l7">
+        <text x="18" y="236"><tspan fill="#3fb950">❯</tspan></text>
+        <rect class="caret" x="36" y="223" width="9" height="17" fill="#58a6ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
