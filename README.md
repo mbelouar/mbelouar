@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/svg/banner.svg" width="100%" alt="Mohammed Belouarraq · Software Engineer · Cloud & DevOps"/>
+  <img src="images/svg/hero.svg" width="100%" alt="Mohammed Belouarraq · Software Engineer · Cloud & DevOps"/>
 </div>
 
 <p align="center">
@@ -117,7 +117,7 @@ I like building systems from the metal up. I've written a shell and a raycasting
   </tr>
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,bash" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,bash" alt="Languages"/></td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
@@ -140,7 +140,7 @@ I like building systems from the metal up. I've written a shell and a raycasting
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mbelouar&background=0D1117&border=30363D&ring=58A6FF&fire=D2A8FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&stroke=30363D" width="80%" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=mbelouar&background=0D1117&border=30363D&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4493F8&sideLabels=8B949E&dates=6E7681&stroke=30363D" width="80%" alt="GitHub streak"/>
 </p>
 
 <br/>
@@ -149,6 +149,6 @@ I like building systems from the metal up. I've written a shell and a raycasting
 
 > *"Code is like humor. When you have to explain it, it's bad."* · Cory House
 
-<img src="images/svg/footer.svg" width="100%" alt="Thanks for stopping by"/>
+<img src="images/svg/outro.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
