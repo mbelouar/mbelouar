@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.belouarraq.com/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-bel-ouarraq-554057218/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohammedbelouarraq/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
   <a href="mailto:medbelouarraq@gmail.com?subject=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:9ba70662-8c5a-4509-aaa6-75afa514f6fb"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readdotcv&logoColor=D2A8FF" alt="Resume"/></a>
   <a href="https://profile.intra.42.fr/users/mbelouar"><img src="https://img.shields.io/badge/42_Intra-0d1117?style=for-the-badge&logo=42&logoColor=white" alt="42 Intra"/></a>
