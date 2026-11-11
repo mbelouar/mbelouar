@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/svg/header.svg" width="100%" alt="Mohammed Belouarraq · Software Engineer · Cloud & DevOps"/>
+  <img src="images/svg/banner.svg" width="100%" alt="Mohammed Belouarraq · Software Engineer · Cloud & DevOps"/>
 </div>
 
 <p align="center">
