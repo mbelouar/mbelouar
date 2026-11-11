@@ -2,12 +2,6 @@
   <img src="images/svg/header_en.svg" width="100%" alt="Header"/>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MBELOUAR;Software+Engineer;Welcome+to+my+GitHub!&center=true&size=30&color=58A6FF&width=600&height=70">
-  </a>
-</h1>
-
 <p align="center">
   <a href="mailto:medbelouarraq@gmail.com?subject=Message%20From%20GITHUB">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -82,7 +76,7 @@ _Prometheus • Grafana • Alerting_
 _Cloud Architecture • DevOps • IaC_
 
 **💼 Portfolio**
-_[GitHub Repositories](https://github.com/mbelouar?tab=repositories)_
+_https://www.belouarraq.com/_
 
 **📧 Contact**
 *medbelouarraq@gmail.com*
@@ -225,7 +219,7 @@ _System programming & algorithms_
 
 ### 🤝 Let's build something amazing together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mac-bello-os.vercel.app/)
+[![Portfolio](https://www.belouarraq.com/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9ba70662-8c5a-4509-aaa6-75afa514f6fb)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" width="100%"/>
