@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://twitter.com/MBelouarraq"><img src="https://img.shields.io/badge/-@MBelouarraq-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://instagram.com/med.belouarraq/"><img src="https://img.shields.io/badge/-med.belouarraq-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://instagram.com/mbelouarraq/"><img src="https://img.shields.io/badge/-med.belouarraq-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
   <a href="https://t.me/medbelouarraq"><img src="https://img.shields.io/badge/-medbelouarraq-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
   <img src="https://komarev.com/ghpvc/?username=mbelouar&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views"/>
 </p>
