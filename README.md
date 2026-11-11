@@ -104,43 +104,17 @@ I like building systems from the metal up. I've written a shell and a raycasting
   <a href="https://github.com/mbelouar?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## `$ which --all tools`
-
-<table align="center">
-  <tr>
-    <td align="center" width="160"><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,aws,gcp,nginx,githubactions,gitlab&perline=10" alt="Cloud and DevOps"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Observability</b></td>
-    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,bash" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=django,flask,nextjs,react,tailwind" alt="Frameworks"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Daily drivers</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,git,github,vim,vscode,postman" alt="Tools"/></td>
-  </tr>
-</table>
-
-## `$ git log --stats`
+## `$ ls ~/stack`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbelouar&theme=github_dark" width="100%" alt="Contribution summary"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,bash,django,flask,nextjs,react,tailwind,postgres,mysql,redis,mongodb,docker,kubernetes,terraform,azure,aws,gcp,nginx,githubactions,gitlab,prometheus,grafana,linux,git,vim&perline=15" width="90%" alt="Tech stack"/>
 </p>
 
+## `$ git stats`
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mbelouar&background=0D1117&border=30363D&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4493F8&sideLabels=8B949E&dates=6E7681&stroke=30363D" width="80%" alt="GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbelouar&theme=github_dark" height="150" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=mbelouar&background=0D1117&border=30363D&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4493F8&sideLabels=8B949E&dates=6E7681&stroke=30363D" height="150" alt="GitHub streak"/>
 </p>
 
 <br/>

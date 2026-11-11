@@ -88,19 +88,19 @@
     <g class="mono screen" font-size="14">
       <g class="ln l1">
         <text x="18" y="68"><tspan fill="#4493f8">$</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
-        <rect class="cover t1" x="34" y="54" width="220" height="20" fill="#010409"/>
+        <rect class="cover t1" x="34" y="54" width="150" height="20" fill="#010409"/>
       </g>
       <text class="ln l2" x="18" y="92" fill="#8b949e">software engineer, cloud &amp; devops</text>
 
       <g class="ln l3">
         <text x="18" y="124"><tspan fill="#4493f8">$</tspan> <tspan fill="#e6edf3">kubectl get pods</tspan></text>
-        <rect class="cover t2" x="34" y="110" width="220" height="20" fill="#010409"/>
+        <rect class="cover t2" x="34" y="110" width="150" height="20" fill="#010409"/>
       </g>
       <text class="ln l4" x="18" y="148" fill="#8b949e">cloudpong-api   1/1   <tspan fill="#3fb950">Running</tspan>   0</text>
 
       <g class="ln l5">
         <text x="18" y="180"><tspan fill="#4493f8">$</tspan> <tspan fill="#e6edf3">terraform apply</tspan></text>
-        <rect class="cover t3" x="34" y="166" width="260" height="20" fill="#010409"/>
+        <rect class="cover t3" x="34" y="166" width="150" height="20" fill="#010409"/>
       </g>
       <text class="ln l6" x="18" y="204" fill="#8b949e"><tspan fill="#3fb950">Apply complete!</tspan> Resources: 12 added.</text>
 
